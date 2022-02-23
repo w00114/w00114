@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w00114
 - 👀 I’m interested in the national cipher challenge.
-- 🌱 I’m currently learning python. what a mistake ;)
+- 🌱 I’m currently learning C#.
 
 <!---
 w00114/w00114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
